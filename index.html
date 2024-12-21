@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>react practise</title>
+    
+    <script  src="https://unpkg.com/react@18/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+<body>
+    <h1>Hello World with html </h1>
+    <div id="js"></div>
+<div id="root"></div>
+<script src="App.js" ></script>
+<script>
+    // Using javascript Dom to print hello world
+    const rootElement = document.getElementById("js");
+rootElement.innerHTML = `<h2>Hello World with JavaScript</h2>`;
+
+</script>
+</body>
+
+
+</html>

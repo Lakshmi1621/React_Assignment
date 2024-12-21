@@ -1,0 +1,30 @@
+{
+  "name": "react_assignment",
+  "version": "1.0.0",
+  "description": "frist assignment",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lakshmi1621/React_Assignment.git"
+  },
+  "keywords": [
+    "demo",
+    "app",
+    "npm"
+  ],
+  "author": "Lakshmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lakshmi1621/React_Assignment/issues"
+  },
+  "homepage": "https://github.com/Lakshmi1621/React_Assignment#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
