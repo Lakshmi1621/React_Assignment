@@ -26,5 +26,10 @@
   },
   "dependencies": {
     "react": "^19.0.0"
-  }
+  },
+  "browserslist": [
+  "last 10 versions",
+  "not dead",
+  "> 0.25%"
+]
 }
